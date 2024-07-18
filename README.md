@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Python Lesson
+A lesson to introduce 6-8th graders to Python
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
