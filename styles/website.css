@@ -1,0 +1,6 @@
+/* This CSS code will style the GitBook */
+
+/* Add an underline to h2 elements */
+h2 {
+  border-bottom: 1px solid #ddd;
+}
